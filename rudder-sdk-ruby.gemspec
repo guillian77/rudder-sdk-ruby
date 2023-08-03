@@ -1,7 +1,7 @@
 require File.expand_path('../lib/rudder/analytics/version', __FILE__)
 
 Gem::Specification.new do |spec|
-  spec.name = 'rudder-sdk-ruby'
+  spec.name = 'rudder-sdk-ruby-jt'
   spec.version = Rudder::Analytics::VERSION
   spec.files = Dir.glob('{lib,bin}/**/*')
   spec.require_paths = ['lib']
